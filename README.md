@@ -6,7 +6,7 @@
  Recommend của tôi: bạn nên bắt đầu từ khoá:
  https://classroom.udacity.com/courses/ud600
 
-        Cần thiết muốn xem cụ thể hơn, có code chạy nhìn thấy kết quả luôn:
+ Cần thiết muốn xem cụ thể hơn, có code chạy nhìn thấy kết quả luôn:
  https://www.youtube.com/watch?v=A5eihauRQvo
 
  Cần biết thêm kiến thức về Markov Decision Process thì xem phần cuối của khoá   stat110 và cuốn sách đi kèm:
