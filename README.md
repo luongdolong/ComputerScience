@@ -77,3 +77,28 @@ Adit Desshpande hiện đang là sinh viên năm 3 ngành Computer Science (khoa
 + [Facebook’s Field Guide to Machine Learning video series – Facebook Research](https://research.fb.com/the-facebook-field-guide-to-machin…/)
 + [AI Innovators – Meet the World’s Brightest Minds](https://www.nvidia.com/…/deep-lea…/industries/ai-innovators/)
 + [Artificial Intelligence, Revealed | Facebook Code | Facebook](https://code.facebook.com/pages/1902086376686983)
+
+
+Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class:
+
+Deep Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
+Supervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
+Unsupervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
+Tips and tricks: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
+
+- Mathematics for Machine Learning
+https://mml-book.github.io
+- Machine Learning Cheatsheet
+https://ml-cheatsheet.readthedocs.io
+- Deep Learning cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
+- Supervised Learning cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
+- Unsupervised Learning cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
+- Machine Learning tips and tricks cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
+- Probability
+https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability.html
+- statistics
+https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics.html
