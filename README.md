@@ -55,3 +55,50 @@ http://online.stanford.edu/course/mining-massive-datasets-self-paced
  Cracking the Coding Interview 6
  Elements of Programming Interviews in Java (Python, C++)
  Introduction to Algorithms 3
+ 
+ [#Resources] Một số nguồn tham khảo miễn phí về Deep Learning (DL) và Machine Learning (ML) (Phần 1)
+Dưới đây là các nguồn tham khảo dành cho các bạn vẫn chưa biết ML và DL là gì cũng như các bạn muốn hiểu cơ bản về các khái niệm cũng như thuật toán, mô hình dùng trong các ngành này.
+**1. Blog:**
+**1.1 Blog tiếng Việt:**
++ Blog [Khanh's little things](http://khanhxnguyen.com/tutorials/):
+Đây là trang blog của bạn Nguyễn Xuân Khánh, nghiên cứu sinh ngành Machine Learning and Natural Language Processing (Học máy và Xử lý ngôn ngữ tự nhiên) tại University of Maryland at College Park, Mỹ. Các bài viết giới thiệu những khái niệm cơ bản trong ML như Over fitting, Loss function, ... và có giới thiệu sơ qua về cách thức hoạt động cũng như những thách thức khi học Deep Learning.
++ Blog [Machine Learning Cơ bản](https://machinelearningcoban.com/):
+Đây là trang blog của bạn Vũ Hữu Tiệp, là nghiên cứu sinh ngành Machine Learning and Computer Vision (Học máy và Thị giác máy tính) tại Pennsylvania State University, Mỹ. Đây là một blog rất chi tiết về các thuật toán cơ bản của ML như Linear Regression, K-Means, Decision Tree, SVM... và có cả ví dụ viết bằng Python để các bạn có thể hình dung dễ hơn về cách các thuật toán được chuyển thành code như thế nào. Các ví dụ ứng dụng các thuật toán cũng rất dễ hiểu và nếu các bạn đã học qua Toán Đại cương thì các bạn hoàn toàn có thể nắm được phần công thức Toán.
++ Blog của [Ông Xuân Hồng](https://ongxuanhong.wordpress.com/):
+Đây là blog của bạn Ông Xuân Hồng, tốt nghiệp Ths tại Japan Advanced Institute of Science and Technology (JAIST), Nhật Bản và hiện đang là một data scientist. Các bài viết thiên về các ứng dụng thực tế và bao gồm nhiều đề tài như ML, DL, xử lý ngôn ngữ, các framework thường dùng trong xử lý big data, ...
+**1.2 Blog tiếng Anh**:
++ Blog của [Andrej Karpathy](http://karpathy.github.io/):
+Đây là blog của Andrej Karpathy, hiện là Director of Artificial Intelligent and Autopilot Vision tại hãng xe Tesla, Mỹ. Trước đó anh này tốt nghiệp Phd tại Stanford University và có một khóa dạy về Convolutional Neural Network rất nổi tiếng cũng ở trường ĐH này. Các bài blog về Deep Reinforcement Learning và Reccurent Neural Network được viết rất hay và dễ hiểu.
++ Blog của [Colah](http://colah.github.io/):
+Đây là trang blog của Christopher Olah, đang là Research Scientist tại Google Brain (bộ phận R&D về AI của Google). Bài về Long Short-term Memory hay LSTM (một mô hình Recurrent Neural Network) là một trong những bài giải thích trực quan và dễ hiểu nhất về mô hình này.
++ Blog của [Adit Deshpande](https://adeshpande3.github.io/)
+Adit Desshpande hiện đang là sinh viên năm 3 ngành Computer Science (khoa học máy tính) tại University of California, Los Angeles. Trang này có nhiều bài tổng hợp dành cho người mới bắt đầu về các mô hình DL.
+**2. Video Series (Tiếng Anh):**
++ [Facebook’s Field Guide to Machine Learning video series – Facebook Research](https://research.fb.com/the-facebook-field-guide-to-machin…/)
++ [AI Innovators – Meet the World’s Brightest Minds](https://www.nvidia.com/…/deep-lea…/industries/ai-innovators/)
++ [Artificial Intelligence, Revealed | Facebook Code | Facebook](https://code.facebook.com/pages/1902086376686983)
+
+
+Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class:
+
+Deep Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
+Supervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
+Unsupervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
+Tips and tricks: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
+
+- Mathematics for Machine Learning
+https://mml-book.github.io
+- Machine Learning Cheatsheet
+https://ml-cheatsheet.readthedocs.io
+- Deep Learning cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
+- Supervised Learning cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
+- Unsupervised Learning cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
+- Machine Learning tips and tricks cheatsheet
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
+- Probability
+https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability.html
+- statistics
+https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics.html
